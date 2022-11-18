@@ -1,0 +1,29 @@
+.form-row {
+  background: #eee;
+  padding: 20px;
+}
+
+.btn-primary {
+  margin: 0 auto;
+}
+
+thead th:hover {
+  cursor: pointer;
+}
+
+#filter-block {
+  margin-bottom: 20px;
+}
+
+.success-feedback {
+  width: 100%;
+}
+
+div.error {
+  color: red;
+  font-size: 10px;
+}
+
+input.error {
+  border: 1px solid red;
+}
